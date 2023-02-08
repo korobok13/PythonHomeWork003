@@ -11,6 +11,7 @@
 # -> 1
 
 from random import randint
+print()
 n = int(input('Введите натуральное число: '))
 numbers = []
 for _ in range(n):
